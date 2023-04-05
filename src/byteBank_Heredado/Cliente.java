@@ -7,6 +7,7 @@ public class Cliente implements Autenticable {
 	private String telefono;
 	private String estadoCivil;
 	private String sexo;
+	private String ocupacion;
 	
 	private Autenticacion_util util;
 
